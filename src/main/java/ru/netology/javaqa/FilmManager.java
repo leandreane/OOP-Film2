@@ -1,4 +1,5 @@
 package ru.netology.javaqa;
+
 public class FilmManager {
     private String[] movies = new String[0];
     private int defaultCountMovie;
